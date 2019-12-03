@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "checkJs": true,
+        "allowJs": true,
+        "outDir": "node_modules/.tmp/",
+        "noImplicitAny": true
+    },
+    "include": [
+        "index.js"
+    ]
+}
